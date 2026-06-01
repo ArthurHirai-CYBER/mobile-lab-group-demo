@@ -33,7 +33,7 @@ class TeamHomePage extends StatelessWidget {
       name: '张智阳',
       task: '创建仓库、维护 main 分支、审核 PR、发布 GitHub Pages',
     ),
-    TeamMember(role: '组员 A', name: '李牧凡', task: '修改首页标题和项目口号'),
+    TeamMember(role: '组员 A', name: '李牧凡', task: '修改首页标题和项目口号.'),
     TeamMember(role: '组员 B', name: '郇志轩', task: '补充成员介绍卡片'),
     TeamMember(role: '组员 C', name: '李响', task: '补充项目功能列表'),
     TeamMember(role: '组员 D', name: '庞博', task: '补充发布说明和访问地址'),
